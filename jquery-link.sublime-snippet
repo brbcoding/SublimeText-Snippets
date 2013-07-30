@@ -1,0 +1,7 @@
+<snippet>
+<content>
+<![CDATA[
+<script src="//code.jquery.com/jquery-latest.js"></script>
+]]></content>
+	<tabTrigger>jquery</tabTrigger>
+</snippet>

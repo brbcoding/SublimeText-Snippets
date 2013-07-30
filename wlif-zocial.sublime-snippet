@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
+]]></content>
+	<tabTrigger>wlif-zocial</tabTrigger>
+	<description>Adds Zocial from WLIF</description>
+</snippet>

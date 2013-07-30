@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@import url(http://weloveiconfonts.com/api/?family=openwebicons);
+
+/* openwebicons */
+[class*="openwebicons-"]:before {
+  font-family: 'OpenWeb Icons', sans-serif;
+}
+]]></content>
+	<tabTrigger>wlif-openwebicons</tabTrigger>
+	<description>Adds Open Web Icons from WLIF</description>
+</snippet>

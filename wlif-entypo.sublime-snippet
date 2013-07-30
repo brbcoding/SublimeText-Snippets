@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+/* entypo */
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+}
+]]></content>
+	<tabTrigger>wlif-entypo</tabTrigger>
+	<description>Adds Entypo from WLIF</description>
+</snippet>

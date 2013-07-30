@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@import url(http://weloveiconfonts.com/api/?family=maki);
+
+/* maki */
+[class*="maki-"]:before {
+  font-family: 'maki', sans-serif;
+}
+]]></content>
+	<tabTrigger>wlif-maki</tabTrigger>
+	<description>Adds maki from WLIF</description>
+</snippet>
